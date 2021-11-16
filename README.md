@@ -1,3 +1,3 @@
-# DiceRoller
-Android Kotlin Developer - Udacity Lesson 1
-Build your first app
+# Udacity Android Kotlin Developer Nanodegree
+## Lesson 1 - Build your first app
+### DiceRoller
